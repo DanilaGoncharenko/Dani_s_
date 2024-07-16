@@ -1,0 +1,31 @@
+
+
+Precision=89/(89+39) 0.695
+Recall = 89/(89+18) 0.831
+Accuracy = (89+ 344 )/(89+ 344+39+18) 0.883
+
+Precision = 158 / (158 + 23) 0.872
+Recall =  158 / (158 + 14) 0.918
+Accuracy = (158+167)/(167+14+23+167) 0.897
+
+
+Log 
+Precision = 98 / (98 + 76) 0.563
+Recall = 98 / (98 + 29) 0.771
+Accuracy = (98+287) / (98+76+29+287) 0.785
+
+https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality?resource=download
+
+A_id: Unique identifier for each fruit
+Size: Size of the fruit
+Weight: Weight of the fruit
+Sweetness: Degree of sweetness of the fruit
+Crunchiness: Texture indicating the crunchiness of the fruit
+Juiciness: Level of juiciness of the fruit
+Ripeness: Stage of ripeness of the fruit
+Acidity: Acidity level of the fruit
+Quality: Overall quality of the fruit
+
+Регрессия
+Recall: 1885 / (1885 + 119) = 0,940
+Precision: 1885 / (1885 + 244) = 0,885
